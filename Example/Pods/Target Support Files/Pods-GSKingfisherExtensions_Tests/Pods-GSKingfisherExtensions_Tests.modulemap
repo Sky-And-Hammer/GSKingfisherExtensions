@@ -1,0 +1,6 @@
+framework module Pods_GSKingfisherExtensions_Tests {
+  umbrella header "Pods-GSKingfisherExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

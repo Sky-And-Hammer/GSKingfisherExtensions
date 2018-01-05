@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GSKingfisherExtensions_Tests' do
+  pod 'GSKingfisherExtensions', :path => '../'
+  
+  
+end

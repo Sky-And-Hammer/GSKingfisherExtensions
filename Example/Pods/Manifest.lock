@@ -1,0 +1,16 @@
+PODS:
+  - GSKingfisherExtensions (0.1.0)
+
+DEPENDENCIES:
+  - GSKingfisherExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  GSKingfisherExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GSKingfisherExtensions: 365be0b21ef622be4250c239c4eea251fc207a41
+
+PODFILE CHECKSUM: 224e8752ff5c039f78a189fb0670a68bf8da696e
+
+COCOAPODS: 1.3.1
